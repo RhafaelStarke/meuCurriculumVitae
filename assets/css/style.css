@@ -29,6 +29,10 @@ hr {
     margin: 1em 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 @media print {
     body {
         background-color: #ffffff;
