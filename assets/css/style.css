@@ -1,6 +1,6 @@
 body {
     background-color: #e0e0e0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     print-color-adjust: important;
 }
 
@@ -14,13 +14,20 @@ body {
     box-sizing: border-box;
 }
 
-h1, h2, h3, p {
+h1, h2 {
     margin-bottom: 0.5em;
+    text-align: center;
+}
+
+h3, p {
+    margin-bottom: 0.5em;
+    margin-top: 1em;
 }
 
 p {
     text-align: justify;
     text-indent: 1.5em;
+    line-height: 1.5;
 }
 
 hr {
