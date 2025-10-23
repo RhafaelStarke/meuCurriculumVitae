@@ -26,8 +26,11 @@ h3, p {
 
 p {
     text-align: justify;
-    text-indent: 1.5em;
     line-height: 1.5;
+}
+
+.ident {
+    text-indent: 1.5em;
 }
 
 hr {
